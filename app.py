@@ -341,9 +341,9 @@ if selected_page == "Home":
             This project is proudly open-source and hosted on GitHub. We welcome contributions, bug reports, and feature requests. To get started, clone the repository and follow the setup instructions in the README.
         </p>
         <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.05);">
-            <code style="color: #06B6D4; font-family: monospace; font-size: 1.1rem;">git clone https://github.com/yourusername/Security-Cryptography-Algorithms.git</code>
+            <code style="color: #06B6D4; font-family: monospace; font-size: 1.1rem;">git clone https://github.com/Mahmoudsherif00/Security-Project-.git</code>
         </div>
-        <a href="" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/Mahmoudsherif00/Security-Project-" target="_blank" style="text-decoration: none;">
             <button style="background: linear-gradient(90deg, #1f2937, #111827); color: white; border: 1px solid #374151; padding: 10px 24px; border-radius: 8px; cursor: pointer; font-weight: bold; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
                 ⭐ View Repository on GitHub
             </button>
