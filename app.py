@@ -551,3 +551,13 @@ elif selected_page == "Hashing":
         else:
             st.info("Awaiting input.")
         st.markdown("</div>", unsafe_allow_html=True)
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Hello World"
+
+if __name__ == "__main__":
+    app.run(debug=True)
